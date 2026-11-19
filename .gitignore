@@ -1,0 +1,9 @@
+# 隐私/本地数据，禁止上传
+auth.json
+device.json
+*.csv
+# 运行时产物
+tools/
+mitm*.log
+last_run.log
+login_flows.mitm
